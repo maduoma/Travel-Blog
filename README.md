@@ -24,6 +24,6 @@
 - [Gson - for  converting the JSON objects to java objects, works nicely with OkHttp](https://github.com/google/gson)
 - [OkHttp - for loading data from the Internet](https://square.github.io/okhttp/)
 
-##### This app uses Repository pattern.
+##### Note: This app uses Repository pattern.
 
 ###### CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open the links on a new tab in your browser.
