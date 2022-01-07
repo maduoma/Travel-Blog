@@ -15,15 +15,15 @@
 ###### A search feature
 ![Search](https://github.com/maduoma/Travel-Blog/blob/master/Search.png)
 
-####### A sort feature
+### A sort feature
 ![Sort](https://github.com/maduoma/Travel-Blog/blob/master/Sort.png)
 
-######## Dependencies
+### Dependencies
 - [Glide - for image caching locally or remotely](https://github.com/bumptech/glide)
 - [Room - for caching and persisting data once loaded on to the phone for offline support](https://developer.android.com/training/data-storage/room)
 - [Gson - for  converting the JSON objects to java objects, works nicely with OkHttp](https://github.com/google/gson)
 - [OkHttp - for loading data from the Internet](https://square.github.io/okhttp/)
 
-######### This app uses Repository pattern.
+### This app uses Repository pattern.
 
-########## CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open the links on a new tab in your browser.
+### CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open the links on a new tab in your browser.
