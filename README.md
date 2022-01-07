@@ -3,7 +3,7 @@
 ## The app at a glance
 ![App](https://github.com/maduoma/Travel-Blog/blob/master/App.png)
 
-### A setailed blog page
+### A Detailed blog page
 ![DetailedPage](https://github.com/maduoma/Travel-Blog/blob/master/DetailedPage.png)
 
 #### A pull-to-refresh feature
@@ -15,7 +15,7 @@
 ###### A search feature
 ![Search](https://github.com/maduoma/Travel-Blog/blob/master/Search.png)
 
-#######
+####### A sort feature
 ![Sort](https://github.com/maduoma/Travel-Blog/blob/master/Sort.png)
 
 ####### Dependencies
